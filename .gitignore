@@ -1,0 +1,6 @@
+.idea/
+venv/
+*.pyc
+*.out
+*.swp
+*.save
